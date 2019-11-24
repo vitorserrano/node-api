@@ -21,11 +21,10 @@
  <br> Tecnologias Utilizadas  
  <ul>
  <br>
-   <li><a href="https://nodejs.org/en/">Node</li> 
-   <li><a href="https://www.docker.com/"> Docker</li>   
-   <li><a href="https://robomongo.org/"> Robo 3T </li>
-   <li><a href="https://www.docker.com/"> Docker</li>
+   <li><a href="https://www.docker.com/"> Docker</li> 
    <li><a href="https://insomnia.rest/"> Insomnia </li>
+   <li><a href="https://nodejs.org/en/">Node</li>      
+   <li><a href="https://robomongo.org/"> Robo 3T </li>      
  <ul>
 </h2>
 
