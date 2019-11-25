@@ -29,17 +29,17 @@
 </h2>
 
 ##  Repositório 
-  - Este repositório é uma APIRest desenvolvida em NodeJs, com utilização de MongoDB como Banco de Dados, a partir do curso "Starter" distribuido pela Rocketseat. 
+  - Este repositório é uma APIRest desenvolvida em NodeJS com utilização de MongoDB como Banco de Dados a partir do curso "Starter" distribuido pela Rocketseat. 
   
-  - É possível realizar as operações de Listagem (Index), amostra de Detalhes (show), atualizaço de dados (update) e remoção de dados (destroy).
+  - É possível realizar as operações de Listagem (Index), amostra de Detalhes (show), atualização de dados (update) e remoção de dados (destroy).
 
 
 ## Importações 
  - **Express** - Controle das Rotas.
  - **Nodemon** - Reinicialização automática do arquivo configurado/iniciado.
- - **Mongoose** - Ao inves de usar "insert, select, update e delete" o mongoose faz com que seja possível realizar essas operações via JavaScript, também transforma as tablelas em objsetos, para que fique extremamente simples as suas manipulações.
+ - **Mongoose** - Ao inves de usar "insert, select, update e delete" o mongoose faz com que seja possível realizar essas operações via JavaScript, também transforma as tablelas em objetos para que fique extremamente simples as suas manipulações.
  - **Require-Dir** - Faz o require para todos os arquivos de um determinado diretório.
- - **Mongoose Paginte** - Faz a paginaço dos dados do Banco de Dados.
+ - **Mongoose Paginte** - Faz a paginação dos dados do Banco de Dados.
  - **Cors** - Permitir acesso de outros dominios.
    
 ## Anotações
